@@ -49,7 +49,7 @@ skillsHeader.forEach((el) =>{
 })
 
 /*==================== QUALIFICATION TABS ====================*/
-const 
+const tabs = d
 
 /*==================== SERVICES MODAL ====================*/
 
